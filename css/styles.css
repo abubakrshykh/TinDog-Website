@@ -208,4 +208,8 @@ body{
             padding: 2em auto;
             margin: 2em auto;
         }
+        .pricing-row{
+            margin: 0;
+            padding: 0;
+        }
     }
